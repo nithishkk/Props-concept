@@ -1,6 +1,7 @@
 import React from "react";
 
 export default function Prodect(props) {
+ 
   const{id,name,price,dprice}=props
   console.log(props,"test")
   return (
